@@ -1,0 +1,48 @@
+/* Section Services Start */
+.services {
+    background: #555;
+    margin-top: 50px;
+  }
+  .services .card {
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border: none;
+    cursor: pointer;
+    height: 200px;
+  }
+  .services .card img {
+    width: 150px;
+    height: 100px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  .services .card .img-clv{
+    width: 120px;
+    margin-right: 15px;
+  }
+  .services .card .card-body {
+    text-align: center;
+  }
+  .services .card .card-body table p{
+    margin-top: 25px;
+    font-size: 13px;
+    font-weight: bold;
+    color:black;
+  }
+  .services .card .card-body table{
+    text-align: center;
+  }
+  .services .prg{
+    text-align: center;
+  margin-top: 60px;
+  margin-bottom: 20px;
+  }
+  .ic-text h1 {
+    text-align: center;
+    text-shadow: 0px 1px 1px rgb(255, 5, 5);
+    font-weight: 600;
+    margin-top: 40px;
+    margin-bottom: 120px;
+  }
+  .ic-text h1 span {
+    color: #ff0800;
+  }
